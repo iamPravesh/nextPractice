@@ -10,7 +10,10 @@ export default function Home() {
         <meta name="keywords" content="ninja" />
       </Head>
       <div className="home">
-        <h1 className={styles.container} >Home Page</h1>
+        <h1 className={styles.container}>Home Page</h1>
+        <p>
+          Hello bhanu sir welcome to my page
+        </p>
       </div>
     </>
   )
