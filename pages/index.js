@@ -13,6 +13,7 @@ export default function Home() {
         <h1 className={styles.container}>Home Page</h1>
         <p>
           Hello bhanu sir welcome to my page.....
+          K xa bhanu sir
         </p>
       </div>
     </>
